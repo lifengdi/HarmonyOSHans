@@ -12,12 +12,12 @@ HarmonyOS-Hans 的切片文件，可以部署到 CDN 上，为站点添加 Harmo
 
 ### 使用字体
 
-根据需要在 CSS 中添加 `HuaweiFont-Regular` 字体，本例样式中已自适应字宽。
+根据需要在 CSS 中添加 `HarmonyOSHans-Regular` 字体，本例样式中已自适应字宽。
 
 ```html
 <style>
   body {
-    font-family: 'HuaweiFont-Regular', sans-serif;
+    font-family: 'HarmonyOSHans-Regular', sans-serif;
   }
 </style>
 ```
