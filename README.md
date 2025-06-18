@@ -4,10 +4,12 @@ HarmonyOS-Hans 的切片文件，可以部署到 CDN 上，为站点添加 Harmo
 
 ## 使用方法
 
+### 上传字体切片及CSS文件到你的网站或者其他CDN服务
+
 ### 引入字体
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Anyexyz/HarmonyOSHans@main/common.css">
+<link rel="stylesheet" href="https://yourdomain.com/common.css">
 ```
 
 ### 使用字体
